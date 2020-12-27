@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DynamicFeatureExample</string>
+    <string name="title_dynamicfeature">MySampleModule</string>
+</resources>
